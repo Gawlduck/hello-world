@@ -1,2 +1,4 @@
 # hello-world
-tutorial repository
+tutorial 
+
+print ("hello,world")
